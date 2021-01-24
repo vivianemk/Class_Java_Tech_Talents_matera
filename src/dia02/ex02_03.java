@@ -1,7 +1,7 @@
 //Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), 
 //calcular e escrever a área do retângulo.
 
-package dia2;
+package dia02;
 import java.util.Scanner;
 
 public class ex02_03 {

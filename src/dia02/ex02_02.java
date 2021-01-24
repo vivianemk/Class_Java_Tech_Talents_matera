@@ -1,6 +1,6 @@
 //Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
 
-package dia2;
+package dia02;
  import java.util.Scanner;
  
 public class ex02_02 {
