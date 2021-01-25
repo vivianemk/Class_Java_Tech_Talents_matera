@@ -5,7 +5,7 @@ package dia03;
 
 import java.util.Scanner;
 
-public class ex03_04 {
+public class ex03_03 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		System.out.println("Digite numero a");
